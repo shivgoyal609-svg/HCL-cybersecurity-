@@ -1,0 +1,1 @@
+NETGUARD is a beginner-level cybersecurity project developed using Cisco Packet Tracer. It demonstrates how authorised IP addresses can be allowed to access a server while unauthorised IP addresses are blocked using Router Access Control Lists (ACLs).
